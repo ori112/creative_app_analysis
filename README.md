@@ -23,3 +23,5 @@ then you can run the app in the directovery
 ```bash
 streamlit run app.py
 ```
+
+![app interface](images/app.png)
