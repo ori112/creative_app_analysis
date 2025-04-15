@@ -1,0 +1,29 @@
+/* Footer layout padding fixes */
+.st-emotion-cache-t1wise {
+    padding-top: 2rem !important;
+    padding-bottom: 2rem !important;
+}
+
+.block-container {
+    padding-bottom: 2rem !important;
+}
+
+/* Footer styling */
+.custom-footer {
+    background-color: #f5f5f5;
+    padding: 10px 0;
+    text-align: center;
+    color: #888;
+    font-size: 14px;
+    border-top: 1px solid #e0e0e0;
+    margin-top: 50px;
+}
+
+.custom-footer a {
+    color: #1f77b4;
+    text-decoration: none;
+}
+
+.custom-footer a:hover {
+    text-decoration: underline;
+}
