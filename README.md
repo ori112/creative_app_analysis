@@ -25,3 +25,5 @@ streamlit run app.py
 ```
 
 ![app interface](images/app.png)
+
+once the app is up, load your csv --> creativies --> click the analyse button
