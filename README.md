@@ -17,7 +17,9 @@ This is a simple Streamlit web app that allows marketers and analysts to analyze
 ```bash
 git clone https://github.com/yourusername/creative_app.git
 cd creative_app
+```
 
 then you can run the app in the directovery
 ```bash
 streamlit run app.py
+```
